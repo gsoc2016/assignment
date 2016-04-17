@@ -1,2 +1,0 @@
-# assignment
-Snapshot repo baby!
